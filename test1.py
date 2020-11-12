@@ -25,6 +25,3 @@ class TestDemo:
         self.driver.find_element(By.ID, 'kw').send_keys(keyword)
         self.driver.find_element(By.ID, 'su').click()
         self.driver.back()
-        # self.driver.find_element(By.)
-
-    # 文件上传
